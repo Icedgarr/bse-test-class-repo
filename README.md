@@ -2,4 +2,4 @@
 Show students how to work with Git
 
 
-Add a line
+Create conflict
